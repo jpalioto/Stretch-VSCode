@@ -7,9 +7,27 @@
   "engines": {
     "vscode": "^0.10.1"
   },
+  "license": "MIT",
   "categories": [
     "Other"
   ],
+  "keywords": [
+    "cat",
+    "ergonomics",
+    "stretching",
+    "blood clot",
+    "don't die"
+  ],
+  "homepage": "https://github.com/jpalioto/Stretch-VSCode.git",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jpalioto/Stretch-VSCode.git"
+  },
+  "icon": "icon.png",
+  "galleryBanner": {
+    "color": "#99CCFF",
+    "theme": "light"
+  },
   "activationEvents": [
     "onCommand:extension.stretchTimer"
   ],
